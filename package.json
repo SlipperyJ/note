@@ -1,0 +1,26 @@
+{
+  "name": "(learning_node)",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlipperyJ/note.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlipperyJ/note/issues"
+  },
+  "homepage": "https://github.com/SlipperyJ/note#readme",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
