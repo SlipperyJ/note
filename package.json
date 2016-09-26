@@ -1,24 +1,24 @@
 {
-  "name": "(learning_node)",
+  "name": "note_js",
   "version": "1.0.0",
-  "description": "Learning node",
+  "description": "node",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SlipperyJ/note.git"
+    "url": "git+https://github.com/nomi811/note_js.git"
   },
   "keywords": [
     "Node"
   ],
-  "author": "Ross",
+  "author": "Nomi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SlipperyJ/note/issues"
+    "url": "https://github.com/nomi811/note_js/issues"
   },
-  "homepage": "https://github.com/SlipperyJ/note#readme",
+  "homepage": "https://github.com/nomi811/note_js#readme",
   "dependencies": {
     "ejs": "^2.5.1",
     "express": "^4.14.0"
